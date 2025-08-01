@@ -1,4 +1,4 @@
-# PolicyRAG - AI Policy Analysis Chatbot
+# LexAI - AI Regulation Policy Analysis Chatbot
 
 A sophisticated Retrieval-Augmented Generation (RAG) system designed for analyzing AI governance, regulations, and policy frameworks. Built with FastAPI, React, and OpenAI's GPT-3.5-turbo.
 
