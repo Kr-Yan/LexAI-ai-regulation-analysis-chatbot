@@ -43,8 +43,8 @@ A sophisticated Retrieval-Augmented Generation (RAG) system designed for analyzi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/LexAI-ai-regulation-analysis-chatbot
-   cd lexai
+   git clone https://github.com/Kr-Yan/LexAI-ai-regulation-analysis-chatbot
+   cd LexAI-ai-regulation-analysis-chatbot
    ```
 
 2. **Set up environment variables**
@@ -78,8 +78,8 @@ If you prefer to run without Docker:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/lexai
-   cd lexai
+   git clone https://github.com/Kr-Yan/LexAI-ai-regulation-analysis-chatbot
+   cd LexAI-ai-regulation-analysis-chatbot
    ```
 
 2. **Set up the backend**
@@ -97,7 +97,7 @@ If you prefer to run without Docker:
 
 4. **Set up the frontend**
    ```bash
-   cd ../frontend
+   cd ../client
    npm install
    ```
 
@@ -111,7 +111,7 @@ If you prefer to run without Docker:
 
 2. **Start the frontend** (in new terminal)
    ```bash
-   cd frontend
+   cd client
    npm start
    ```
 
@@ -200,7 +200,7 @@ lexai/
 │       ├── chat_engine.py  # GPT-3.5 chat engine
 │       ├── document_processor.py # Document chunking
 │       └── vector_store.py # ChromaDB vector storage
-├── frontend/              # Frontend application
+├── client/              # Frontend application
 │   ├── Dockerfile         # Frontend container config
 │   ├── .dockerignore      # Frontend ignore rules
 │   ├── nginx.conf         # Production web server config
