@@ -43,7 +43,7 @@ A sophisticated Retrieval-Augmented Generation (RAG) system designed for analyzi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/lexai
+   git clone https://github.com/yourusername/lexai](https://github.com/Kr-Yan/LexAI-ai-regulation-analysis-chatbot.git
    cd lexai
    ```
 
