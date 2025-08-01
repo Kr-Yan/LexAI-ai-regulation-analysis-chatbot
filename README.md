@@ -186,7 +186,7 @@ curl -X POST "http://localhost:8000/chat" \
 ## 📁 Project Structure
 
 ```
-lexai/
+LexAI-ai-regulation-analysis-chatbot/
 ├── docker-compose.yml       # Container orchestration
 ├── .env.example            # Environment template
 ├── README.md               # This file
