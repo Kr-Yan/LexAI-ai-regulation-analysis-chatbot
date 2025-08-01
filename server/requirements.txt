@@ -1,0 +1,17 @@
+# Existing dependencies (keep these)
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+pypdf
+python-multipart
+
+# New dependency for OpenAI
+openai>=1.0.0
+
+sentence-transformers
+PyPDF2==3.0.1
+pydantic
