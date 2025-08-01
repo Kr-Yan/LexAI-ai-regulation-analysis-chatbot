@@ -6,7 +6,7 @@ import shutil
 from typing import List, Dict, Optional
 
 class VectorStoreManager:
-    def __init__(self, index_path: str = "./data/chroma_db"):
+    def __init__(self, index_path: str = "./data/vector_db"):
         self.index_path = index_path
         
         # Use free HuggingFace embeddings instead of OpenAI
